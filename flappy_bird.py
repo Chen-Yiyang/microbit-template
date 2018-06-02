@@ -62,11 +62,11 @@ while True:
         # what do I do here?
     
     # create new wall
-    if(frame % FRAMES_PER_NEW_WALL == 0):
+    if(frame % # oops. I forgot what to type here. Help me fill this in!:
         # again, what do I do here?
         
     # increase score
-    if(frame % FRAMES_PER_SCORE == 0):
+    if # oops again! I spilled water on my keyboard! what should I type here?
         score += 1 # score = score + 1
     
     # wait 20ms
